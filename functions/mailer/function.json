@@ -1,0 +1,10 @@
+{
+  "description": "4tius Mailer Microservice",
+  "memory": 128,
+  "timeout": 10,
+  "environment" : {
+    "sesRegion" : "us-east-1",
+    "sesAccessKeyId" : "AKIAJMGM4SRPFNPVYT4Q",
+    "sesSecretAccessKey" : "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"
+  }
+}

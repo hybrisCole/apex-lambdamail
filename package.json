@@ -1,0 +1,21 @@
+{
+  "name": "apex-lambdamail",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "./node_modules/eslint/bin/eslint.js functions/**"
+  },
+  "pre-commit": "test",
+  "engines": {
+    "node": "7.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "2.6.12"
+  },
+  "devDependencies": {
+    "eslint": "3.9.1",
+    "eslint-plugin-node": "2.1.3"
+  }
+}

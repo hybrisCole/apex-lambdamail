@@ -1,0 +1,9 @@
+{
+  "name": "lambda4tius",
+  "description": "",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::966701792336:role/lambda4tius_lambda_function",
+  "profile": "4tius-dev",
+  "environment": {}
+}

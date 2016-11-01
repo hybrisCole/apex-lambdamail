@@ -1,0 +1,6 @@
+{
+  "subject"    : "Hello From AWS Lambda",
+  "from"       : "acpii2005@gmail.com",
+  "addresses"  : ["acole@18techs.com", "acpii2005@gmail.com"],
+  "mailTemplate" : "<p>4tius Test</p><p>Greetings from AWS Lambda</p>"
+}
